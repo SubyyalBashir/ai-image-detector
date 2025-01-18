@@ -1,0 +1,11 @@
+1. Install all the dependencies listed in requirements.txt section.
+Some dependencies are not needed as I was experimenting various ways.
+
+2. Work.py works to an image of a whole face while the crop_detection.py leverages computer vision techniques
+to crop the picture of a human face. (Thanks OpenCV)
+
+3. I used some experiment data in the data/df/ folder with names instead of numbers on it for the crop section. I am submitting it all collectively
+
+
+
+
