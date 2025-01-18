@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -196,4 +195,3 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
->>>>>>> c5b548bd23c940d0a4b15ba9e0de2d7682447fb3
